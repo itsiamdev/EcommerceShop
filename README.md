@@ -21,6 +21,10 @@ Welcome to the **Ecommerce Shop** project! This is a modern, responsive ecommerc
 
 No additional setup or dependencies required – it's a static website!
 
+## 🌐 Live Demo
+
+Check out the live version: [Ecommerce Shop](https://iam269.github.io/EcommerceShop/)
+
 ## 📁 Project Structure
 
 - `index.html` - Main HTML file with the website structure.
