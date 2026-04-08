@@ -23,7 +23,7 @@ No additional setup or dependencies required – it's a static website!
 
 ## 🌐 Live Demo
 
-Check out the live version: [Ecommerce Shop](https://iam269.github.io/EcommerceShop/)
+Check out the live version: [Ecommerce Shop](https://itsiamdev.github.io/EcommerceShop/)
 
 ## 📁 Project Structure
 
